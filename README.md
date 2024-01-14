@@ -23,7 +23,7 @@ I'm a senior Computer Science student at Grand Valley State University (GVSU), I
 - Consistently recognized for strong problem-solving and analytical skills.
 
 ## 👥 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](Your LinkedIn URL)
+- **LinkedIn**: [Caleb Roe](linkedin.com/in/caleb-roe)
 - **Email**: [Calebaroe@gmail.com](mailto:calebaroe@gmail.com)
 
 Feel free to reach out for collaborations or just a chat about technology, software development, and the endless possibilities in the world of computing!
