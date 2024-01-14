@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Caleb Roe 👋
 
-I'm a senior Computer Science student at Grand Valley State University (GVSU), passionate about building impactful software solutions. My journey in coding and software development has been filled with continuous learning, problem-solving, and creativity.
+I'm a senior Computer Science student at Grand Valley State University (GVSU), I am passionate about building impactful software solutions. My journey in coding and software development has been filled with continuous learning, problem-solving, and creativity.
 
 ## 🎓 Education
 - **Senior at Grand Valley State University**
@@ -15,8 +15,8 @@ I'm a senior Computer Science student at Grand Valley State University (GVSU), p
 - **Other Skills**: RESTful API Design, Agile Methodologies, Continuous Integration and Deployment (CI/CD)
 
 ## 🚀 Projects
-- **[Gimble Todo](https://github.com/Calebroe/Gimble-Todo)**: A Vue.js and Firebase based task management application. This project showcases my skills in full-stack development, including frontend, backend, and database management.
-- **[Other Project Name]**: Brief description of another project that highlights your skills.
+- **[Gimble Todo](https://github.com/Calebroe/Gimble-Todo)**: A Vue.js and Firebase based task management application. This project showcases my skills in full-stack development, including frontend, backend, and database management. Currently in development
+- **[Anchor Up Fitness](https://github.com/Calebroe/)**: Fitness tracking website where users can compete with their friends, create challenges to share with one another, and track their personal fitness journey.
 
 ## 🌟 Achievements
 - Successfully implemented multiple full-stack applications.
@@ -24,7 +24,7 @@ I'm a senior Computer Science student at Grand Valley State University (GVSU), p
 
 ## 👥 Connect with Me
 - **LinkedIn**: [Your LinkedIn Profile](Your LinkedIn URL)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [Calebaroe@gmail.com](mailto:calebaroe@gmail.com)
 
 Feel free to reach out for collaborations or just a chat about technology, software development, and the endless possibilities in the world of computing!
 
