@@ -1,4 +1,36 @@
-### Hi there 👋
+# Hello, I'm [Your Name] 👋
+
+I'm a senior Computer Science student at Grand Valley State University (GVSU), passionate about building impactful software solutions. My journey in coding and software development has been filled with continuous learning, problem-solving, and creativity.
+
+## 🎓 Education
+- **Senior at Grand Valley State University**
+  - Pursuing a Bachelor's Degree in Computer Science
+  - Special focus on Software Development, Data Structures, and Algorithms
+
+## 💻 Technical Skills
+- **Languages**: Proficient in JavaScript (ES6+), Python, and TypeScript
+- **Frameworks/Libraries**: Vue.js, React, Node.js
+- **Databases**: Experienced with SQL, Firebase
+- **Tools**: Git, Docker, Jenkins, AWS
+- **Other Skills**: RESTful API Design, Agile Methodologies, Continuous Integration and Deployment (CI/CD)
+
+## 🚀 Projects
+- **[Gimble Todo](https://github.com/Calebroe/Gimble-Todo)**: A Vue.js and Firebase based task management application. This project showcases my skills in full-stack development, including frontend, backend, and database management.
+- **[Other Project Name]**: Brief description of another project that highlights your skills.
+
+## 🌟 Achievements
+- Successfully implemented multiple full-stack applications.
+- Consistently recognized for strong problem-solving and analytical skills.
+
+## 👥 Connect with Me
+- **LinkedIn**: [Your LinkedIn Profile](Your LinkedIn URL)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+
+Feel free to reach out for collaborations or just a chat about technology, software development, and the endless possibilities in the world of computing!
+
+---
+
+Proud to be a part of the vibrant GVSU CS community. Go Lakers! 🎓💻
 
 <!--
 **Calebroe/Calebroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
